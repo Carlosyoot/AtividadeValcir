@@ -1,22 +1,8 @@
-<<<<<<< HEAD
-## Getting Started
+Atividade Aps segundo Bimestre:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Utilização de ToString, ArrayList, StreamCollector e Scanner:
 
-## Folder Structure
+O código tem como objetivo de fazer a nomeclantura e distribuição de classes além de proporcionar um construtor para a aplicação
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# AtividadeValcir
->>>>>>> df86de55e8a40379f686ddc6146f0d31757991d7
+Feito por: Carlos Daniel!!
